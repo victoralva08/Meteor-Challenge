@@ -16,7 +16,7 @@ The results from this implementation is:
 The script iterates through each pixel column of the image. If it finds any water mask in the column, it means that any meteor in this very same column will fall on water.
 
 ### What's the message in the sky?
-As I'm not an expert in working with images, I could only think about iterating again through the image and translating it to some code like Morse. Unfortunally, none of the messages I could decode made any sense.
+As I'm not an expert in working with images, I could only think about iterating again through the image and translating it to some code like Morse. Unfortunally, none of the messages I translated made any sense. The results and approach methods are explained in the Jupyter Notebook file.
 
 
 
